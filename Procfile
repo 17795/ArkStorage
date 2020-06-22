@@ -1,1 +1,1 @@
-web: gunicorn prts-api:app
+web: gunicorn flask_app:app
