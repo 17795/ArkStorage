@@ -1,0 +1,1 @@
+web: gunicorn prts-api:app
