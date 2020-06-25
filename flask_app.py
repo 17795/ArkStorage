@@ -19,8 +19,8 @@ norm_size = 32
 batch_size = 32
 epochs = 40
 
-f = open("data/matlist.json", encoding='utf-8')
-matlist = json.load(f)
+ff = open("data/matlist.json", encoding='utf-8')
+matlist = json.load(ff)
 
 inventory = {}
 
@@ -131,4 +131,4 @@ def register():
     return
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0')
+    app.run()
