@@ -125,7 +125,7 @@ def register():
             num = int(num)
             # print(chinese, num)
             if chinese in matlist:
-                inventory[src] = num
+                inventory[chinese] = num
         print(str(inventory))
         return json.dumps(inventory, ensure_ascii=False)
     return
