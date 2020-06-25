@@ -1,0 +1,242 @@
+{
+  "D32钢": {
+    "src": "D32g",
+    "rarity": 5,
+    "color": "#f9cb03",
+    "label": 1
+  },
+  "双极纳米片": {
+    "src": "sjnmp",
+    "rarity": 5,
+    "color": "#f9cb03",
+    "label": 19
+  },
+  "聚合剂": {
+    "src": "jhj",
+    "rarity": 5,
+    "color": "#f9cb03",
+    "label": 9
+  },
+  "白马醇": {
+    "src": "bmc",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 4
+  },
+  "三水锰矿": {
+    "src": "ssmk",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 20
+  },
+  "RMA70-24": {
+    "src": "RMA70-24",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 3
+  },
+  "五水研磨石": {
+    "src": "wsyms",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 29
+  },
+  "提纯源岩": {
+    "src": "tcyy",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 23
+  },
+  "改量装置": {
+    "src": "glzz",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 6
+  },
+  "聚酸酯块": {
+    "src": "jszk",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 12
+  },
+  "糖聚块": {
+    "src": "tjk",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 24
+  },
+  "异铁块": {
+    "src": "ytk",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 32
+  },
+  "酮阵列": {
+    "src": "tzl",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 28
+  },
+  "聚合凝胶": {
+    "src": "jhnj",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 10
+  },
+  "炽合金块": {
+    "src": "zhjk",
+    "rarity": 4,
+    "color": "#e2b7f3",
+    "label": 37
+  },
+  "扭转醇": {
+    "src": "nzc",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 15
+  },
+  "轻锰矿": {
+    "src": "qmk",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 17
+  },
+  "RMA70-12": {
+    "src": "RMA70-12",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 2
+  },
+  "研磨石": {
+    "src": "yms",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 30
+  },
+  "固源岩组": {
+    "src": "gyyz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 8
+  },
+  "全新装置": {
+    "src": "qxzz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 18
+  },
+  "聚酸酯组": {
+    "src": "jszz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 13
+  },
+  "糖组": {
+    "src": "tz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 27
+  },
+  "异铁组": {
+    "src": "ytz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 34
+  },
+  "酮凝集组": {
+    "src": "tnjz",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 26
+  },
+  "凝胶": {
+    "src": "nj",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 14
+  },
+  "炽合金": {
+    "src": "zhj",
+    "rarity": 3,
+    "color": "#1fa8db",
+    "label": 37
+  },
+  "固源岩": {
+    "src": "gyy",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 7
+  },
+  "装置": {
+    "src": "zz",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 39
+  },
+  "聚酸酯": {
+    "src": "jsz",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 11
+  },
+  "糖": {
+    "src": "t",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 22
+  },
+  "异铁": {
+    "src": "yt",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 31
+  },
+  "酮凝集": {
+    "src": "tnj",
+    "rarity": 2,
+    "color": "#d2ef1d",
+    "label": 25
+  },
+  "源岩": {
+    "src": "yy",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 35
+  },
+  "破损装置": {
+    "src": "pszz",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 16
+  },
+  "酯原料": {
+    "src": "zyl",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 38
+  },
+  "代糖": {
+    "src": "dt",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 5
+  },
+  "异铁碎片": {
+    "src": "ytsp",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 33
+  },
+  "双酮": {
+    "src": "st",
+    "rarity": 1,
+    "color": "#838383",
+    "label": 21
+  },
+  "其他材料": {
+    "src": "Na",
+    "rarity": 0,
+    "color": "#838383",
+    "label": 40
+  }
+}
