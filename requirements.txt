@@ -1,7 +1,7 @@
 numpy==1.17.4
 Flask==1.1.1
 matplotlib==3.2.0
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.3.1
 opencv-python-headless==4.2.0.34
 Keras==2.4.2
 imutils==0.5.3
